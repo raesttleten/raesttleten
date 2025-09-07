@@ -1,54 +1,60 @@
-<!-- 🌸 Encabezado bonito -->
+<!-- 🌊 Top Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=100&section=header"/>
+</div>
+
+<!-- 🌸 Cute Header -->
 <div align="center">
 
-# ✨🍓 𝒉𝒊! 𝒊'𝒎 **𝒓𝒂𝒆𝒔𝒕𝒕𝒍𝒆𝒕𝒆𝒏** 🍓✨  
-  
+# ✨ 𝒉𝒊! 𝒊'𝒎 **𝒓𝒂𝒆𝒔𝒕𝒕𝒍𝒆𝒕𝒆𝒏** ✨  
 
 </div>
 
 ---
 
-## 🎀 Sobre mí  
-🍓 Me encanta programar con un estilo creativo y tierno.  
-💻 Siempre aprendiendo y creando cosas nuevas.  
-🌸 Fan del diseño colorido, los gifs y las decoraciones kawaii.  
+## -`♡´- About me  
+🤍 I’m passionate about **programming and design**.  
+🐾 I love expressing my personality and leaving my unique mark in every project with a special touch.  
+👩🏼‍💻 I’m constantly learning and exploring new technologies to grow as a developer.   
 
----
+⋆⭒˚.⋆ ✨⋆⭒˚.⋆
 
-## 💖 Tecnologías y lenguajes que uso  
+--- 
 
 <div align="center">
 
-<!-- Lenguajes -->
-![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff99cc?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-ff66b2?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-9370DB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-BA55D3?style=for-the-badge&logo=javascript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-DA70D6?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8A2BE2?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<!-- Herramientas -->
-![Android](https://img.shields.io/badge/Android-ff66b2?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-ff99cc?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-ffb6c1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- Tools -->
+![GitHub](https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-BA55D3?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+--- 
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raesttleten&show_icons=true&theme=tokyonight&title_color=BA55D3&icon_color=DA70D6&text_color=ffffff&bg_color=1a1b27)  
+
+</div>
+
+---  
+
+<div align="center">
+
+<img src="dev.gif" width="200"/>  
+
+ *dev in progress... 𖹭.ᐟ*   
 
 </div>
 
 ---
-
-## 🌸 Un poco de estética  
-
 <div align="center">
-
-<img src="portada.jpg" width="200"/>  
-
-🌷 *Coding with sparkles and love!* 🌷  
-
-</div>
-
----
-
-<!-- 🌸 Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=100&section=footer"/>
 </div>
