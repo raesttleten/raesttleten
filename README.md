@@ -1,7 +1,7 @@
 <div align="center" style="position: relative; text-align: center;">
 
   <!-- 🌸 Portada como fondo -->
-  <img src="portada.png" alt="Portada kawaii" width="100%" />
+  <img src="portada.png" alt="portada" width="100%" />
 
   <!-- 🌸 Texto animado encima con efecto brillante -->
   <svg viewBox="0 0 1000 100" width="80%" style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%);">
