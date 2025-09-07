@@ -1,42 +1,48 @@
-<div align="center" style="position: relative; text-align: center;">
+<!-- 🌸 Encabezado bonito -->
+<div align="center">
 
-  <!-- 🌸 Portada como fondo -->
-  <img src="portada.png" alt="portada" width="100%" />
+# ✨🍓 𝒉𝒊! 𝒊'𝒎 **𝒓𝒂𝒆𝒔𝒕𝒕𝒍𝒆𝒕𝒆𝒏** 🍓✨  
+  
 
-  <!-- 🌸 Texto animado encima con efecto brillante -->
-  <svg viewBox="0 0 1000 100" width="80%" style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%);">
-    <defs>
-      <linearGradient id="gradient">
-        <stop stop-color="#ff66cc" offset="0%" />
-        <stop stop-color="#ff99cc" offset="50%" />
-        <stop stop-color="#ff66cc" offset="100%" />
-      </linearGradient>
-      <pattern id="sparkle" x="0" y="0" width="200" height="100" patternUnits="userSpaceOnUse">
-        <text x="0" y="70" font-size="60" font-family="Comic Sans MS, cursive" fill="url(#gradient)">
-          ˚₊· ͟͟͞͞➳❥ Bienvenid@ al mundo de raesttleten 🌸✨
-        </text>
-      </pattern>
-    </defs>
-    <rect x="0" y="0" width="100%" height="100%" fill="url(#sparkle)">
-      <animate attributeName="x" from="0" to="200" dur="6s" repeatCount="indefinite" />
-    </rect>
-  </svg>
 </div>
-
-### 🎀 Sobre mí
-🍓 Me gusta programar con un toque creativo y kawaii.  
-💻 Aprendiendo y creando proyectos con mucho cariño.  
-🌸 Fan del diseño colorido, los gifs y las decoraciones bonitas.  
 
 ---
 
-### 🛠️ Tecnologías que uso
+## 🎀 Sobre mí  
+🍓 Me encanta programar con un estilo creativo y tierno.  
+💻 Siempre aprendiendo y creando cosas nuevas.  
+🌸 Fan del diseño colorido, los gifs y las decoraciones kawaii.  
+
+---
+
+## 💖 Tecnologías y lenguajes que uso  
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-ff99cc?style=for-the-badge&logo=kotlin&logoColor=white)
+<!-- Lenguajes -->
+![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff99cc?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-ff66b2?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ffc0cb?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- Herramientas -->
 ![Android](https://img.shields.io/badge/Android-ff66b2?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff99cc?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ffc0cb?style=for-the-badge&logo=github&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-ffb6c1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🌸 Un poco de estética  
+
+<div align="center">
+
+<img src="portada.jpg" width="200"/>  
+
+🌷 *Coding with sparkles and love!* 🌷  
 
 </div>
 
