@@ -1,9 +1,8 @@
-<!-- 🌊 Top Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=100&section=header"/>
 </div>
 
-<!-- 🌸 Cute Header -->
+
 <div align="center">
 
 # ✨ 𝒉𝒊! 𝒊'𝒎 **𝒓𝒂𝒆𝒔𝒕𝒕𝒍𝒆𝒕𝒆𝒏** ✨  
@@ -48,7 +47,7 @@
 
 <div align="center">
 
-<img src="dev.gif" width="200"/>  
+<img src="devg.gif" width="400"/>  
 
  *dev in progress... 𖹭.ᐟ*   
 
