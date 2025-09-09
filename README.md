@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="devg.gif" width="400"/>  
+<img src="dev2.gif" width="400"/>  
 
  *dev in progress... 𖹭.ᐟ*   
 
