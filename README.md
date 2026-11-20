@@ -71,7 +71,7 @@
 ## `$ git log --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raesttleten&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=F8A5C2&text_color=FFC8DD&icon_color=F48FB1&ring_color=F8A5C2" height="165" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=raesttleten&custom_title=Sharick's%20GitHub%20Stats&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=F8A5C2&text_color=FFC8DD&icon_color=F48FB1&ring_color=F8A5C2" height="165" alt="Estadísticas de GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raesttleten&layout=compact&hide_border=true&bg_color=1A1A2E&title_color=F8A5C2&text_color=FFC8DD" height="165" alt="Lenguajes más usados">
 </p>
 
