@@ -45,9 +45,9 @@
         <img src="https://skillicons.dev/icons?i=python,js,kotlin,cpp&theme=light" alt="Python, JavaScript, Kotlin y C++"><br>
         <sub><code>Python · JavaScript · Kotlin · C++</code></sub>
       </td>
-      <td width="50%" valign="top"><code>├─ frameworks:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=fastapi&theme=light" alt="FastAPI"><br>
-        <sub><code>FastAPI</code></sub>
+      <td width="50%" valign="top"><code>├─ backend_databases:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=fastapi,mysql&theme=light" alt="FastAPI y MySQL"><br>
+        <sub><code>FastAPI · MySQL</code></sub>
       </td>
     </tr>
     <tr>

@@ -2,9 +2,25 @@
   "title": "Language Stack",
   "_comment": "Valores de 0 a 100. Cambia los valores y corre: python scripts/radar.py --data assets/langmix.json -o assets/radar-langs",
   "axes": [
-    {"label": "Python", "value": 80},
-    {"label": "JavaScript", "value": 70},
-    {"label": "Kotlin", "value": 55},
-    {"label": "C++", "value": 60}
+    {
+      "label": "Python",
+      "value": 80
+    },
+    {
+      "label": "JavaScript",
+      "value": 70
+    },
+    {
+      "label": "Kotlin",
+      "value": 55
+    },
+    {
+      "label": "C++",
+      "value": 60
+    },
+    {
+      "label": "SQL (MySQL)",
+      "value": 75
+    }
   ]
 }

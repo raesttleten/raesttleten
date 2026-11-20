@@ -16,7 +16,7 @@
 <text x="56" y="260" font-size="16"><tspan fill="#8C8FA8">mission:</tspan><tspan x="190" fill="#F8A5C2">crear proyectos con personalidad propia</tspan></text>
 <text x="56" y="290" font-size="19" font-weight="700" fill="#F48FB1">&gt; ls skills/</text>
 <text x="56" y="322" font-size="16"><tspan fill="#F8A5C2">languages/</tspan><tspan x="240" fill="#F3E6EC">Python · JavaScript · Kotlin · C++</tspan></text>
-<text x="56" y="350" font-size="16"><tspan fill="#F8A5C2">backend/</tspan><tspan x="240" fill="#F3E6EC">FastAPI</tspan></text>
+<text x="56" y="350" font-size="16"><tspan fill="#F8A5C2">backend/</tspan><tspan x="240" fill="#F3E6EC">FastAPI · MySQL</tspan></text>
 <text x="56" y="378" font-size="16"><tspan fill="#F8A5C2">tools/</tspan><tspan x="240" fill="#F3E6EC">Git · GitHub · GitLab · VS Code</tspan></text>
 <rect x="728" y="84" width="320" height="316" rx="12" fill="#121726" stroke="#F8A5C2" stroke-opacity="0.7"/>
 <text x="752" y="120" font-size="16" fill="#FFC8DD">sunset runtime</text>
