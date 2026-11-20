@@ -1,25 +1,21 @@
 <div align="center">
 
-<!-- BANNER ROSADO -->
+<!-- BANNER ANIMADO -->
 <a href="https://github.com/raesttleten">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4EC,50:FFC8DD,100:F8A5C2&height=200&section=header&text=Sharick&fontSize=64&fontColor=8B3A5E&fontAlignY=36&desc=programación%20·%20diseño%20·%20aprendizaje%20constante&descSize=18&descAlignY=58&descColor=A0526F" width="100%" alt="Banner rosado de Sharick">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" width="960" alt="Perfil animado de Sharick">
+  </picture>
 </a>
 
 <br>
 
 <a href="https://github.com/raesttleten">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=F48FB1&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi!+I'm+Sharick;Estudiante+de+programaci%C3%B3n;Programming+%2B+Design;Always+learning+new+tech" alt="Texto animado con el perfil de Sharick">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F48FB1&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Sharick+Hern%C3%A1ndez+%E2%80%94+Estudiante;Programming+%2B+Design;Python+%E2%80%A2+JavaScript+%E2%80%A2+Kotlin;Always+learning+new+tech" alt="Texto animado con el perfil de Sharick">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=raesttleten&style=flat&color=f8a5c2&label=profile+views" alt="profile views">
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="960" alt="Perfil animado de Sharick">
-</picture>
 
 </div>
 
