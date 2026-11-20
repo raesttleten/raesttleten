@@ -15,7 +15,11 @@
 
 <br><br>
 
-<img src="assets/profile-card.svg" width="960" alt="Tarjeta profile.yml de Sharick">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="960" alt="Perfil animado de Sharick">
+</picture>
 
 </div>
 
@@ -79,20 +83,36 @@
 
 ---
 
+## `$ python radar.py --signals`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-dark.svg" width="390" alt="Radar de habilidades">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+    <img src="assets/radar-langs-dark.svg" width="370" alt="Radar de lenguajes">
+  </picture>
+</p>
+
+<p align="center"><sub><code>signals: skill_radar · language_stack_radar · status: healthy</code></sub></p>
+
+---
+
 <!-- SOCIALS -->
 ## `$ connect --socials`
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/sharick-hern%C3%A1ndez-576b2439a/">
+  <img src="https://img.shields.io/badge/LinkedIn-FFC8DD?style=for-the-badge&logo=linkedin&logoColor=8B3A5E" alt="LinkedIn">
+</a>&nbsp;&nbsp;
 <a href="https://github.com/raesttleten">
   <img src="https://img.shields.io/badge/GitHub-F8A5C2?style=for-the-badge&logo=github&logoColor=8B3A5E" alt="GitHub">
 </a>
-<!-- Añade tus redes copiando este formato, por ejemplo:
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/TU-USUARIO/">
-  <img src="https://img.shields.io/badge/LinkedIn-FFC8DD?style=for-the-badge&logo=linkedin&logoColor=8B3A5E" alt="LinkedIn">
-</a>
--->
 
 </div>
 
