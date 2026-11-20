@@ -13,21 +13,19 @@
 
 <img src="https://komarev.com/ghpvc/?username=raesttleten&style=flat&color=f8a5c2&label=profile+views" alt="profile views">
 
+<br><br>
+
+<img src="assets/profile-card.svg" width="960" alt="Tarjeta profile.yml de Sharick">
+
 </div>
 
 ---
 
 ## `$ whoami`
 
-```yaml
-user: sharick           # @raesttleten
-status: estudiante    # aún en formación
-loves:
-  - programación
-  - diseño
-  - darle personalidad a cada proyecto
-currently: aprendiendo nuevas tecnologías
-```
+<p align="center">
+  <img src="assets/whoami-card.svg" width="960" alt="Terminal whoami de Sharick">
+</p>
 
 <br>
 

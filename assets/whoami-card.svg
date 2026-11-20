@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1080" height="430" viewBox="0 0 1080 430" font-family="JetBrains Mono, Consolas, 'Courier New', monospace">
+<defs><linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8A5C2"/><stop offset="1" stop-color="#C7A4F5"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="sun"><circle cx="905" cy="215" r="62"/></clipPath></defs>
+<rect width="1080" height="430" rx="18" fill="#0A0D15"/>
+<rect x="12" y="10" width="1056" height="410" rx="14" fill="#0E111B" stroke="url(#bd)" stroke-width="2"/>
+<circle cx="40" cy="40" r="6" fill="#F48FB1"/><circle cx="60" cy="40" r="6" fill="#FFC8A2"/><circle cx="80" cy="40" r="6" fill="#FFC8DD"/>
+<text x="100" y="45" font-size="14" fill="#8C8FA8">raesttleten · profile shell · online</text>
+<line x1="32" y1="64" x2="1048" y2="64" stroke="#2A2F45"/>
+<rect x="32" y="84" width="676" height="316" rx="12" fill="#121726" stroke="#F8A5C2" stroke-opacity="0.7"/>
+<text x="56" y="122" font-size="19" font-weight="700" fill="#F48FB1">&gt; whoami</text>
+<text x="56" y="156" font-size="18"><tspan fill="#F3E6EC">sharick</tspan><tspan fill="#8C8FA8">   —  </tspan><tspan fill="#FFC8DD" font-weight="700">Estudiante de programación</tspan></text>
+<line x1="56" y1="176" x2="684" y2="176" stroke="#2A2F45"/>
+<text x="56" y="210" font-size="16"><tspan fill="#8C8FA8">context:</tspan><tspan x="190" fill="#F8A5C2">programación + diseño</tspan></text>
+<text x="56" y="242" font-size="16"><tspan fill="#8C8FA8">mission:</tspan><tspan x="190" fill="#F8A5C2">crear proyectos con personalidad propia</tspan></text>
+<text x="56" y="290" font-size="19" font-weight="700" fill="#F48FB1">&gt; ls skills/</text>
+<text x="56" y="322" font-size="16"><tspan fill="#F8A5C2">languages/</tspan><tspan x="240" fill="#F3E6EC">Python · JavaScript · Kotlin · C++</tspan></text>
+<text x="56" y="350" font-size="16"><tspan fill="#F8A5C2">backend/</tspan><tspan x="240" fill="#F3E6EC">FastAPI</tspan></text>
+<text x="56" y="378" font-size="16"><tspan fill="#F8A5C2">tools/</tspan><tspan x="240" fill="#F3E6EC">Git · GitHub · GitLab · VS Code</tspan></text>
+<rect x="728" y="84" width="320" height="316" rx="12" fill="#121726" stroke="#F8A5C2" stroke-opacity="0.7"/>
+<text x="752" y="120" font-size="16" fill="#FFC8DD">sunset runtime</text>
+<g clip-path="url(#sun)"><rect x="840" y="150" width="130" height="130" fill="#F8A5C2"/>
+<rect x="840" y="228" width="130" height="4" fill="#121726"/>
+<rect x="840" y="244" width="130" height="5" fill="#121726"/>
+<rect x="840" y="258" width="130" height="6" fill="#121726"/>
+<rect x="840" y="270" width="130" height="7" fill="#121726"/>
+</g>
+<path d="M752 300 C800 270, 850 270, 900 292 S990 300, 1024 276" fill="none" stroke="#FFC8DD" stroke-width="4" filter="url(#glow)"/>
+<path d="M752 324 C800 300, 850 300, 900 318 S990 326, 1024 304" fill="none" stroke="#C7A4F5" stroke-width="2.5"/>
+<text x="752" y="376" font-size="13" fill="#8C8FA8">status: aprendiendo siempre</text>
+</svg>
