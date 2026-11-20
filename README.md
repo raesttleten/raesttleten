@@ -51,6 +51,16 @@
       </td>
     </tr>
     <tr>
+      <td valign="top"><code>├─ frontend_web:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=react,vite&theme=light" alt="React y Vite"><br>
+        <sub><code>React 18 · Vite</code></sub>
+      </td>
+      <td valign="top"><code>├─ cloud_deploy:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=firebase,vercel&theme=light" alt="Firebase y Vercel"><br>
+        <sub><code>Firebase · Vercel</code></sub>
+      </td>
+    </tr>
+    <tr>
       <td colspan="2" valign="top"><code>╰─ tools:</code><br><br>
         <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&theme=light" alt="Git, GitHub, GitLab y VS Code"><br>
         <sub><code>Git · GitHub · GitLab · VS Code</code></sub>

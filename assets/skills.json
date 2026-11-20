@@ -2,10 +2,29 @@
   "title": "Skill Radar",
   "_comment": "Autoevaluación de 0 a 100. Cambia los valores y corre: python scripts/radar.py --data assets/skills.json -o assets/radar",
   "axes": [
-    {"label": "Programación", "value": 80},
-    {"label": "Diseño", "value": 75},
-    {"label": "Backend (FastAPI)", "value": 65},
-    {"label": "Git & GitHub", "value": 75},
-    {"label": "Aprendizaje continuo", "value": 90}
+    {
+      "label": "Programación",
+      "value": 80
+    },
+    {
+      "label": "Diseño web",
+      "value": 75
+    },
+    {
+      "label": "Frontend (React)",
+      "value": 75
+    },
+    {
+      "label": "Backend (FastAPI)",
+      "value": 65
+    },
+    {
+      "label": "Git & GitHub",
+      "value": 75
+    },
+    {
+      "label": "Aprendizaje continuo",
+      "value": 90
+    }
   ]
 }
