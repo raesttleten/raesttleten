@@ -62,8 +62,8 @@
     </tr>
     <tr>
       <td colspan="2" valign="top"><code>╰─ tools:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&theme=light" alt="Git, GitHub, GitLab y VS Code"><br>
-        <sub><code>Git · GitHub · GitLab · VS Code</code></sub>
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio&theme=light" alt="Git, GitHub, GitLab, VS Code y Visual Studio"><br>
+        <sub><code>Git · GitHub · GitLab · VS Code · Visual Studio</code></sub>
       </td>
     </tr>
   </tbody>

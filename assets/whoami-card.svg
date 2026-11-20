@@ -19,7 +19,7 @@
 <text x="56" y="350" font-size="16"><tspan fill="#F8A5C2">frontend/</tspan><tspan x="240" fill="#F3E6EC">React 18 · Vite</tspan></text>
 <text x="56" y="378" font-size="16"><tspan fill="#F8A5C2">backend/</tspan><tspan x="240" fill="#F3E6EC">FastAPI · MySQL</tspan></text>
 <text x="56" y="406" font-size="16"><tspan fill="#F8A5C2">cloud/</tspan><tspan x="240" fill="#F3E6EC">Firebase · Vercel</tspan></text>
-<text x="56" y="434" font-size="16"><tspan fill="#F8A5C2">tools/</tspan><tspan x="240" fill="#F3E6EC">Git · GitHub · GitLab · VS Code</tspan></text>
+<text x="56" y="434" font-size="16"><tspan fill="#F8A5C2">tools/</tspan><tspan x="240" fill="#F3E6EC">Git · GitHub · GitLab · VS Code · Visual Studio</tspan></text>
 <rect x="728" y="84" width="320" height="366" rx="12" fill="#121726" stroke="#F8A5C2" stroke-opacity="0.7"/>
 <text x="752" y="120" font-size="16" fill="#FFC8DD">sunset runtime</text>
 <g clip-path="url(#sun)"><rect x="840" y="150" width="130" height="130" fill="#F8A5C2"/>

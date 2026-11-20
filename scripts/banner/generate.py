@@ -47,7 +47,7 @@ YAML_ROWS = [
     (1, "frontend", "React 18 · Vite"),
     (1, "backend", "FastAPI · MySQL"),
     (1, "cloud", "Firebase · Vercel"),
-    (1, "tools", "Git · GitHub · GitLab · VS Code"),
+    (1, "tools", "Git · GitHub · GitLab · VS Code · Visual Studio"),
     (0, "projects", ""),
     (1, "featured", "FocusLabProject · cognibrain"),
     (0, "contact", ""),
